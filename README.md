@@ -15,7 +15,7 @@ Usage:
 
 Performance:
 ---
-
+![image](https://github.com/xiaohulugo/images/blob/master/MultiScaleEdgeDetection.jpg)
 
 Please cite these two papers if you feel this code useful:
 
